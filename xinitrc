@@ -1,4 +1,4 @@
 sxhkd &
 dunst &
-$HOME/suckless/status_time.sh &
+$HOME/.dotfileRepos/xinitrc/status_time.sh &
 exec dwm
